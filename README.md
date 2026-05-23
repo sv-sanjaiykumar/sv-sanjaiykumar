@@ -48,8 +48,8 @@ Currently learning and working on:
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/sv-sanjaiykumar
+- LinkedIn: https://www.linkedin.com/in/sanjaiykumar-s-v/
 
 ---
 
