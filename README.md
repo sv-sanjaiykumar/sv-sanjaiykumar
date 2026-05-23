@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Sanjaiy  
 
 ```yaml
-Role: Flutter Developer & GenAI Enthusiast
+Role: Flutter Developer
 Focus: Mobile Apps • AI Integrations • Backend APIs
-Learning: AWS • Docker • Full Stack Development
+Learning: AWS • Docker
 Location: India 🇮🇳
 ```
 
