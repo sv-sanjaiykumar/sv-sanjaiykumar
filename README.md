@@ -2,7 +2,7 @@
 
 ```yaml
 Role: Flutter Developer
-Focus: Mobile Apps • AI Integrations • Backend APIs
+Focus: Mobile Apps • Backend APIs
 Learning: AWS • Docker
 Location: India 🇮🇳
 ```
