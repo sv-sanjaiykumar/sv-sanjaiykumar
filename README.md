@@ -102,37 +102,6 @@ Completed an intensive Flutter and Dart internship focused on developing scalabl
 * Developed responsive user interfaces
 * Followed clean and modular architecture principles
 
----
-
-## 🏆 Coding Profiles & Achievements
-
-### LeetCode
-
-* Solved 140+ Problems
-* Global Rank: 580,604
-* Participated in 6+ Contests
-
-### HackerRank
-
-* Solved 25+ Problems
-* Earned 1 Certification
-
-### GeeksforGeeks
-
-* Solved 50+ Problems
-
----
-
-## 📜 Certifications
-
-* Java Programming Basics – Udemy
-* Mastering Data Structures & Algorithms using C and C++ – Udemy
-* SQL Basics – HackerRank
-* Flutter REST API Development – Udemy
-* Flutter and Dart: Developing iOS and Android Mobile Apps – Coursera
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -149,6 +118,7 @@ Completed an intensive Flutter and Dart internship focused on developing scalabl
 ## 📫 Connect With Me
 
 📧 Email: **[sanjaiy2006@gmail.com](mailto:sanjaiy2006@gmail.com)**
+💼 LinkedIn: **[www.linkedin.com/in/sanjaiykumar-s-v](www.linkedin.com/in/sanjaiykumar-s-v)**
 
 ---
 
