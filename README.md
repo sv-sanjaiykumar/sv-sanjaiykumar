@@ -136,12 +136,12 @@ Completed an intensive Flutter and Dart internship focused on developing scalabl
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sv-sanjaiykumar&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv-sanjaiykumar&layout=compact" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sv-sanjaiykumar" />
 </p>
 
 ---
