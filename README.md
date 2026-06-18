@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sanjaiykumar S V
 
-### Flutter Developer 
+### Flutter Developer
 
 📍 India
 💡 Passionate about building real-world mobile applications using **Flutter** and **Firebase**.
@@ -10,11 +10,19 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on Flutter and Firebase projects
-* 📱 Experienced in developing cross-platform mobile applications
-* 🌱 Learning advanced Flutter architecture and scalable application development
-* 💬 Ask me about Flutter, Firebase, Dart, and Mobile App Development
-* ⚡ Enjoy solving coding problems and participating in coding contests
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🔭 Currently working on Flutter and Firebase projects
+
+📱 Experienced in developing cross-platform mobile applications
+
+🌱 Learning advanced Flutter architecture and scalable application development
+
+💬 Ask me about Flutter, Firebase, Dart, and Mobile App Development
+
+⚡ Enjoy solving coding problems and participating in coding contests
+
+<br>
 
 ---
 
@@ -22,27 +30,27 @@
 
 ### Languages
 
-* C++
-* Dart
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
 ### Frameworks & Technologies
 
-* Flutter
-* Firebase Authentication
-* Cloud Firestore
-* Firebase Storage
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ### State Management
 
-* Provider
-* GetX
+![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
 
 ### Tools
 
-* VS Code
-* Android Studio
-* GitHub
-* Canva
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
 
 ---
 
@@ -86,7 +94,7 @@ A Family Wallet Application with secure parent-child account management, expense
 
 Completed an intensive Flutter and Dart internship focused on developing scalable mobile applications using Firebase Firestore and Provider.
 
-Key Highlights:
+### Key Highlights
 
 * Built a fully functional Habit App
 * Implemented offline synchronization
@@ -125,17 +133,22 @@ Key Highlights:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [sanjaiy2006@gmail.com](mailto:sanjaiy2006@gmail.com)
+📧 Email: **[sanjaiy2006@gmail.com](mailto:sanjaiy2006@gmail.com)**
 
 ---
 
